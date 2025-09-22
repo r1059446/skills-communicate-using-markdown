@@ -12,4 +12,7 @@ var user_name = "r1059446";
 
 
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
